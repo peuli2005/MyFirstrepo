@@ -1,2 +1,2 @@
-# MyFirstrepo
-learning
+# MyFirstRepository
+print("this is for training")
